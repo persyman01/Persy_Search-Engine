@@ -5,9 +5,10 @@ const nameContainer = document.querySelector(".main__profile-name");
 const unContainer = document.querySelector(".main__profile-username");
 const reposContainer = document.querySelector(".main__profile-repos");
 const urlContainer = document.querySelector(".main__profile-url");
-// fro github registration of a new app
-const client_id = "3f9e4c2fd28afdb99aac";
-const client_secret = "8ba7a9d434ba8f71cfa94f7bb3663c53028e7b51";
+// fro github registration of a new app.Register your app on github to get these two client id and client secret
+
+const client_id = "";
+const client_secret = "";
 
 //this replaces AJAX async
 
