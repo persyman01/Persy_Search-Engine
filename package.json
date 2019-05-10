@@ -1,0 +1,13 @@
+{
+  "name": "Persy_Search Engine",
+  "version": "1.0.0",
+  "description": "Searching The User Profile On GitHub",
+  "main": "index.js",
+ ,
+  "author": "Persistent Mangara",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "node-sass": "^4.5.3"
+  }
+}
